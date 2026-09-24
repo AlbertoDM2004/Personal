@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R3\\R3E04_AlbertoDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3429F1-D056-4CDB-9E96-CC2CD1FDC45E}|R3E04_AlbertoDM\\R3E04_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r3\\r3e04_albertodm\\r3e04_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3429F1-D056-4CDB-9E96-CC2CD1FDC45E}|R3E04_AlbertoDM\\R3E04_AlbertoDM.csproj|solutionrelative:r3e04_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R3\\R3E04_AlbertoDM\\R3E04_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R3E04_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R3\\R3E04_AlbertoDM\\R3E04_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R3E04_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:45:10.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
