@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\bin\Debug\net10.0\R2E08_AlbertoDM.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\bin\Debug\net10.0\R2E08_AlbertoDM.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\bin\Debug\net10.0\R2E08_AlbertoDM.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\bin\Debug\net10.0\R2E08_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\bin\Debug\net10.0\R2E08_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\refint\R2E08_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_AlbertoDM.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\ref\R2E08_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R2\R2E08_AlbertoDM\R2E08_AlbertoDM\obj\Debug\net10.0\R2E08_Al.19BB0EF3.Up2Date

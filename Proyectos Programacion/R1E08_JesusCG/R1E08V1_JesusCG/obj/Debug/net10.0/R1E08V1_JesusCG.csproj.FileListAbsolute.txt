@@ -1,0 +1,30 @@
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.exe
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.deps.json
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.runtimeconfig.json
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.dll
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.pdb
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.AssemblyInfoInputs.cache
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.AssemblyInfo.cs
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.csproj.CoreCompileInputs.cache
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.dll
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\refint\R1E08V1_JesusCG.dll
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.pdb
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.genruntimeconfig.cache
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\ref\R1E08V1_JesusCG.dll
+D:\EJEMPLOS\PROG2627\EJEMPLOS\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_.F5F91154.Up2Date
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\bin\Debug\net10.0\R1E08V1_JesusCG.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\refint\R1E08V1_JesusCG.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_JesusCG.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\ref\R1E08V1_JesusCG.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R1E08_JesusCG\R1E08V1_JesusCG\obj\Debug\net10.0\R1E08V1_.F5F91154.Up2Date

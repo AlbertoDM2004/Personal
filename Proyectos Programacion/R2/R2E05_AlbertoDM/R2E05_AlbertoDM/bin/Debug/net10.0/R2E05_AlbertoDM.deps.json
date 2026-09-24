@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "R2E05_AlbertoDM/1.0.0": {
+        "runtime": {
+          "R2E05_AlbertoDM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "R2E05_AlbertoDM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

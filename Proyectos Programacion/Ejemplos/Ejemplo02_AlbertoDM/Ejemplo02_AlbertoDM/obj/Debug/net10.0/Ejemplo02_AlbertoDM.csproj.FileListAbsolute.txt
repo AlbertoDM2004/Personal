@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\bin\Debug\net10.0\Ejemplo02_AlbertoDM.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\bin\Debug\net10.0\Ejemplo02_AlbertoDM.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\bin\Debug\net10.0\Ejemplo02_AlbertoDM.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\bin\Debug\net10.0\Ejemplo02_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\bin\Debug\net10.0\Ejemplo02_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\refint\Ejemplo02_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo02_AlbertoDM.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\ref\Ejemplo02_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplo02_AlbertoDM\Ejemplo02_AlbertoDM\obj\Debug\net10.0\Ejemplo0.981DC22F.Up2Date
