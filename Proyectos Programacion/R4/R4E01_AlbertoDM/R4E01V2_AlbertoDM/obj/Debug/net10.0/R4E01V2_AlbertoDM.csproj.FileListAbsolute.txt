@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\bin\Debug\net10.0\R4E01V2_AlbertoDM.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\bin\Debug\net10.0\R4E01V2_AlbertoDM.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\bin\Debug\net10.0\R4E01V2_AlbertoDM.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\bin\Debug\net10.0\R4E01V2_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\bin\Debug\net10.0\R4E01V2_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\refint\R4E01V2_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_AlbertoDM.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\ref\R4E01V2_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\R4\R4E01_AlbertoDM\R4E01V2_AlbertoDM\obj\Debug\net10.0\R4E01V2_.56382F7E.Up2Date
