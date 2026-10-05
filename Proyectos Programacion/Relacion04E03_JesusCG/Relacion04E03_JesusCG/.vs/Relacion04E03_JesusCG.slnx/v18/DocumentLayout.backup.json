@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22294E-DFE4-4344-B1F6-8573161092FD}|R4E03V3_AlbertoDM\\R4E03V3_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\relacion04e03_jesuscg\\relacion04e03_jesuscg\\r4e03v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD22294E-DFE4-4344-B1F6-8573161092FD}|R4E03V3_AlbertoDM\\R4E03V3_AlbertoDM.csproj|solutionrelative:r4e03v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A3F4EB-9778-23B7-B9B7-ACF1BE572CD4}|Relacion04E03V2_JesusCG\\Relacion04E03V2_JesusCG.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\relacion04e03_jesuscg\\relacion04e03_jesuscg\\relacion04e03v2_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A3F4EB-9778-23B7-B9B7-ACF1BE572CD4}|Relacion04E03V2_JesusCG\\Relacion04E03V2_JesusCG.csproj|solutionrelative:relacion04e03v2_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD79B59-7C22-BF03-048B-13B55BA9B2EA}|Relacion04E03V1_JesusCG\\Relacion04E03V1_JesusCG.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\relacion04e03_jesuscg\\relacion04e03_jesuscg\\relacion04e03v1_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD79B59-7C22-BF03-048B-13B55BA9B2EA}|Relacion04E03V1_JesusCG\\Relacion04E03V1_JesusCG.csproj|solutionrelative:relacion04e03v1_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\R4E03V3_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R4E03V3_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\R4E03V3_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R4E03V3_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:33:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\Relacion04E03V2_JesusCG\\Program.cs",
+              "RelativeDocumentMoniker": "Relacion04E03V2_JesusCG\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\Relacion04E03V2_JesusCG\\Program.cs",
+              "RelativeToolTip": "Relacion04E03V2_JesusCG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:08:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\Relacion04E03V1_JesusCG\\Program.cs",
+              "RelativeDocumentMoniker": "Relacion04E03V1_JesusCG\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\Relacion04E03_JesusCG\\Relacion04E03_JesusCG\\Relacion04E03V1_JesusCG\\Program.cs",
+              "RelativeToolTip": "Relacion04E03V1_JesusCG\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:47:09.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

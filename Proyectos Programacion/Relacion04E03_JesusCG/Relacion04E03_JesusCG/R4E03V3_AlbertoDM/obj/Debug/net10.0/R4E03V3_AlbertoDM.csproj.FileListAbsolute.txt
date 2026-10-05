@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\bin\Debug\net10.0\R4E03V3_AlbertoDM.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\bin\Debug\net10.0\R4E03V3_AlbertoDM.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\bin\Debug\net10.0\R4E03V3_AlbertoDM.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\bin\Debug\net10.0\R4E03V3_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\bin\Debug\net10.0\R4E03V3_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\refint\R4E03V3_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_AlbertoDM.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\ref\R4E03V3_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Relacion04E03_JesusCG\Relacion04E03_JesusCG\R4E03V3_AlbertoDM\obj\Debug\net10.0\R4E03V3_.D57A8D57.Up2Date
