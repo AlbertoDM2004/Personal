@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Hoja de Inscripción</title>
+</head>
+<body>
+
+    <header>
+        <h1>HOJA DE INSCRIPCION</h1>
+        <h2>EN LOS CICLOS FORMATIVOS DE GRADO SUPERIOR</h2>
+    </header>
+
+    <main>
+        <form action="#" method="POST">
+            
+            <!-- SECCIÓN: Datos Personales -->
+            <fieldset>
+                <legend>Datos Personales</legend>
+                <p>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre">
+                    
+                    <label for="apellidos">Apellidos:</label>
+                    <input type="text" id="apellidos" name="apellidos">
+                    
+                    <label for="dni">DNI:</label>
+                    <input type="text" id="dni" name="dni">
+                </p>
+                <p>
+                    <label for="localidad">Localidad de Nacimiento:</label>
+                    <input type="text" id="localidad" name="localidad">
+                    
+                    <label for="provincia">Provincia:</label>
+                    <select id="provincia" name="provincia">
+                        <option value="huelva">Huelva</option>
+                    </select>
+                    
+                    <label for="fecha_nac">Fecha de Nacimiento:</label>
+                    <input type="text" id="fecha_nac" name="fecha_nac" placeholder="dd/mm/aaaa">
+                </p>
+                <p>
+                    <label for="direccion">Dirección:</label>
+                    <input type="text" id="direccion" name="direccion">
+                    
+                    <label for="cp">Código Postal:</label>
+                    <input type="text" id="cp" name="cp">
+                </p>
+            </fieldset>
+
+            <!-- SECCIÓN: Forma de Acceso -->
+            <fieldset>
+                <legend>Forma de Acceso</legend>
+                
+                <p>
+                    <input type="radio" id="directo" name="forma_acceso" value="directo">
+                    <label for="directo">Directo</label>
+                </p>
+                
+                <blockquote>
+                    <p>
+                        <input type="radio" id="bachillerato" name="via_directa" value="bachillerato">
+                        <label for="bachillerato">Bachillerato Log Modalidad</label>
+                        <input type="text" name="bachillerato_detalles">
+                    </p>
+                    <p>
+                        <input type="radio" id="experimental" name="via_directa" value="experimental">
+                        <label for="experimental">Experimental</label>
+                        <input type="text" name="experimental_detalles">
+                    </p>
+                    <p>
+                        <input type="radio" id="cou" name="via_directa" value="cou">
+                        <label for="cou">COU Opción</label>
+                        <input type="text" name="cou_detalles">
+                    </p>
+                    <p>
+                        <input type="radio" id="fp2" name="via_directa" value="fp2">
+                        <label for="fp2">FP2</label>
+                        <input type="text" name="fp2_detalles">
+                    </p>
+                    <p>
+                        <input type="radio" id="otros_acceso" name="via_directa" value="otros">
+                        <label for="otros_acceso">Otros (especifique)</label>
+                        <input type="text" name="otros_acceso_detalles">
+                    </p>
+                </blockquote>
+
+                <p>
+                    <input type="radio" id="prueba_libre" name="forma_acceso" value="prueba_libre">
+                    <label for="prueba_libre">Prueba Libre</label>
+                </p>
+            </fieldset>
+
+            <!-- SECCIÓN: Documentos Adjuntados -->
+            <fieldset>
+                <legend>Documentos Adjuntados</legend>
+                <p>
+                    <input type="checkbox" id="dni_doc" name="documentos" value="fotocopia_dni">
+                    <label for="dni_doc">Fotocopia DNI</label>
+                    
+                    <input type="checkbox" id="certificado" name="documentos" value="certificado_academico">
+                    <label for="certificado">Certificado Académico</label>
+                </p>
+                <p>
+                    <input type="checkbox" id="otros_doc" name="documentos" value="otros">
+                    <label for="otros_doc">Otros documentos (especifique)</label>
+                    <input type="text" name="otros_documentos_detalles">
+                </p>
+            </fieldset>
+
+            <!-- Botones de Acción -->
+            <p>
+                <input type="submit" value="Enviar Solicitud">
+                <input type="reset" value="Limpiar datos">
+            </p>
+
+        </form>
+    </main>
+
+</body>
+</html>
