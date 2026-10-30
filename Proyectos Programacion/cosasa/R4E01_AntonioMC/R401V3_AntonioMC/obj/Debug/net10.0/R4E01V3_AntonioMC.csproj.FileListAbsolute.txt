@@ -1,0 +1,15 @@
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\bin\Debug\net10.0\R4E01V3_AntonioMC.exe
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\bin\Debug\net10.0\R4E01V3_AntonioMC.deps.json
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\bin\Debug\net10.0\R4E01V3_AntonioMC.runtimeconfig.json
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\bin\Debug\net10.0\R4E01V3_AntonioMC.dll
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\bin\Debug\net10.0\R4E01V3_AntonioMC.pdb
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.AssemblyInfoInputs.cache
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.AssemblyInfo.cs
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.csproj.CoreCompileInputs.cache
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.dll
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\refint\R4E01V3_AntonioMC.dll
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.pdb
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_AntonioMC.genruntimeconfig.cache
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\ref\R4E01V3_AntonioMC.dll
+C:\Users\Antonio (Trabajo)\Desktop\Programacion\R04\R4E01_AntonioMC\R401V3_AntonioMC\obj\Debug\net10.0\R4E01V3_.57BD6511.Up2Date

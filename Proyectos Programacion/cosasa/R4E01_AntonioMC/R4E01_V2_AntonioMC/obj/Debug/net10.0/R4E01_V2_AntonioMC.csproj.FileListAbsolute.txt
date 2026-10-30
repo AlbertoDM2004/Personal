@@ -1,0 +1,15 @@
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\bin\Debug\net10.0\R4E01_V2_AntonioMC.exe
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\bin\Debug\net10.0\R4E01_V2_AntonioMC.deps.json
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\bin\Debug\net10.0\R4E01_V2_AntonioMC.runtimeconfig.json
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\bin\Debug\net10.0\R4E01_V2_AntonioMC.dll
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\bin\Debug\net10.0\R4E01_V2_AntonioMC.pdb
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.AssemblyInfoInputs.cache
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.AssemblyInfo.cs
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.dll
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\refint\R4E01_V2_AntonioMC.dll
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.pdb
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2_AntonioMC.genruntimeconfig.cache
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\ref\R4E01_V2_AntonioMC.dll
+C:\PROGRAMACION\R04\R4E01_AntonioMC\R4E01_V2_AntonioMC\obj\Debug\net10.0\R4E01_V2.E933074A.Up2Date

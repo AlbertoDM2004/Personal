@@ -1,0 +1,15 @@
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\bin\Debug\net10.0\EjemploMenu_JesusCG.exe
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\bin\Debug\net10.0\EjemploMenu_JesusCG.deps.json
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\bin\Debug\net10.0\EjemploMenu_JesusCG.runtimeconfig.json
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\bin\Debug\net10.0\EjemploMenu_JesusCG.dll
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\bin\Debug\net10.0\EjemploMenu_JesusCG.pdb
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.AssemblyInfoInputs.cache
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.AssemblyInfo.cs
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.csproj.CoreCompileInputs.cache
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.dll
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\refint\EjemploMenu_JesusCG.dll
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.pdb
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploMenu_JesusCG.genruntimeconfig.cache
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\ref\EjemploMenu_JesusCG.dll
+D:\EJEMPLOS\DII2627\R03\EjemploMenu_JesusCG\EjemploMenu_JesusCG\obj\Debug\net10.0\EjemploM.4F21622F.Up2Date

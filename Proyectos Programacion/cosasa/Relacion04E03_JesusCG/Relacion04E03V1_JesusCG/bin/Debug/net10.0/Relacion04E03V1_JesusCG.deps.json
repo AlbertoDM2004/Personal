@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Relacion04E03V1_JesusCG/1.0.0": {
+        "runtime": {
+          "Relacion04E03V1_JesusCG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Relacion04E03V1_JesusCG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

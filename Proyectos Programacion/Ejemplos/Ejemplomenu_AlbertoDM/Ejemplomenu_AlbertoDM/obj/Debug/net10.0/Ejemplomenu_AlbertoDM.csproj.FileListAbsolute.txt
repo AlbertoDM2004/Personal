@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\bin\Debug\net10.0\Ejemplomenu_AlbertoDM.exe
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\bin\Debug\net10.0\Ejemplomenu_AlbertoDM.deps.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\bin\Debug\net10.0\Ejemplomenu_AlbertoDM.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\bin\Debug\net10.0\Ejemplomenu_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\bin\Debug\net10.0\Ejemplomenu_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\refint\Ejemplomenu_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.pdb
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplomenu_AlbertoDM.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\ref\Ejemplomenu_AlbertoDM.dll
+C:\Users\Usuario\Desktop\Proyectos Programacion\Ejemplos\Ejemplomenu_AlbertoDM\Ejemplomenu_AlbertoDM\obj\Debug\net10.0\Ejemplom.E0A97A76.Up2Date

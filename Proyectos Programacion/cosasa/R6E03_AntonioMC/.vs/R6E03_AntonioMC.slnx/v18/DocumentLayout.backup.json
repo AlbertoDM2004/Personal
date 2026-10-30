@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antonio (Trabajo)\\Desktop\\Programacion\\R06\\R6E03_AntonioMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6DBB-1AA4-49C3-B365-4FE6D4B2B8D8}|R6E03_AntonioMC\\R6E03_AntonioMC.csproj|c:\\users\\antonio (trabajo)\\desktop\\programacion\\r06\\r6e03_antoniomc\\r6e03_antoniomc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6DBB-1AA4-49C3-B365-4FE6D4B2B8D8}|R6E03_AntonioMC\\R6E03_AntonioMC.csproj|solutionrelative:r6e03_antoniomc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio (Trabajo)\\Desktop\\Programacion\\R06\\R6E03_AntonioMC\\R6E03_AntonioMC\\Program.cs",
+              "RelativeDocumentMoniker": "R6E03_AntonioMC\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonio (Trabajo)\\Desktop\\Programacion\\R06\\R6E03_AntonioMC\\R6E03_AntonioMC\\Program.cs",
+              "RelativeToolTip": "R6E03_AntonioMC\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T16:24:52.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

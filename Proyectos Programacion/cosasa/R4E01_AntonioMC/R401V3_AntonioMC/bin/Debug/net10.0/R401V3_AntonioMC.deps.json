@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "R401V3_AntonioMC/1.0.0": {
+        "runtime": {
+          "R401V3_AntonioMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "R401V3_AntonioMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

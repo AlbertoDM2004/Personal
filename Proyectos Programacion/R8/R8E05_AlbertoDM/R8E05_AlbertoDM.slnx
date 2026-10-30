@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="R8E05V1_AlbertoDM/R8E05V1_AlbertoDM.csproj" />
+  <Project Path="R8E05V2_AlbertoDM/R8E05V2_AlbertoDM.csproj" Id="36ca5e23-62d6-4d14-adc5-8a373ad73308" />
+  <Project Path="R8E05V3_AlbertoDM/R8E05V3_AlbertoDM.csproj" Id="f43ba5f9-028b-47d1-9886-3a5b7c633517" />
+  <Project Path="R8E05V4_AlbertoDM/R8E05V4_AlbertoDM.csproj" Id="5c51b881-459e-4896-9882-dbdd6fc83c34" />
+  <Project Path="R8E05V5_AlbertoDM/R8E05V5_AlbertoDM.csproj" Id="7c3de532-52e5-44cd-8481-7e03c65658bb" />
+</Solution>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\cosasa\\R6E01_JuanSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B86AB1-6D64-33DE-658E-9D951190CA33}|R6E01_JuanSP\\R6E01_JuanSP.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\cosasa\\r6e01_juansp\\r6e01_juansp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B86AB1-6D64-33DE-658E-9D951190CA33}|R6E01_JuanSP\\R6E01_JuanSP.csproj|solutionrelative:r6e01_juansp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\cosasa\\R6E01_JuanSP\\R6E01_JuanSP\\Program.cs",
+              "RelativeDocumentMoniker": "R6E01_JuanSP\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\cosasa\\R6E01_JuanSP\\R6E01_JuanSP\\Program.cs",
+              "RelativeToolTip": "R6E01_JuanSP\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:28:43.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EJEMPLOS\\PROG2627\\R04\\Relacion04E01_JesusCG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3416667C-83CD-4DDE-9224-DD9EEBFADE83}|Relacion04E01V1_JesusCG\\Relacion04E01V1_JesusCG.csproj|d:\\ejemplos\\prog2627\\r04\\relacion04e01_jesuscg\\relacion04e01v1_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3416667C-83CD-4DDE-9224-DD9EEBFADE83}|Relacion04E01V1_JesusCG\\Relacion04E01V1_JesusCG.csproj|solutionrelative:relacion04e01v1_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E62A39-2C0F-41E6-93B3-6B9AA96C0EFB}|Relacion04E01V2_JesusCG\\Relacion04E01V2_JesusCG.csproj|d:\\ejemplos\\prog2627\\r04\\relacion04e01_jesuscg\\relacion04e01v2_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E62A39-2C0F-41E6-93B3-6B9AA96C0EFB}|Relacion04E01V2_JesusCG\\Relacion04E01V2_JesusCG.csproj|solutionrelative:relacion04e01v2_jesuscg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EJEMPLOS\\PROG2627\\R04\\Relacion04E01_JesusCG\\Relacion04E01V2_JesusCG\\Program.cs",
+              "RelativeDocumentMoniker": "Relacion04E01V2_JesusCG\\Program.cs",
+              "ToolTip": "D:\\EJEMPLOS\\PROG2627\\R04\\Relacion04E01_JesusCG\\Relacion04E01V2_JesusCG\\Program.cs",
+              "RelativeToolTip": "Relacion04E01V2_JesusCG\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:32:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EJEMPLOS\\PROG2627\\R04\\Relacion04E01_JesusCG\\Relacion04E01V1_JesusCG\\Program.cs",
+              "RelativeDocumentMoniker": "Relacion04E01V1_JesusCG\\Program.cs",
+              "ToolTip": "D:\\EJEMPLOS\\PROG2627\\R04\\Relacion04E01_JesusCG\\Relacion04E01V1_JesusCG\\Program.cs",
+              "RelativeToolTip": "Relacion04E01V1_JesusCG\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:49:02.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

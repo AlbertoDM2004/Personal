@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DE532-52E5-44CD-8481-7E03C65658BB}|R8E05V5_AlbertoDM\\R8E05V5_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r8\\r8e05_albertodm\\r8e05v5_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DE532-52E5-44CD-8481-7E03C65658BB}|R8E05V5_AlbertoDM\\R8E05V5_AlbertoDM.csproj|solutionrelative:r8e05v5_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51B881-459E-4896-9882-DBDD6FC83C34}|R8E05V4_AlbertoDM\\R8E05V4_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r8\\r8e05_albertodm\\r8e05v4_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51B881-459E-4896-9882-DBDD6FC83C34}|R8E05V4_AlbertoDM\\R8E05V4_AlbertoDM.csproj|solutionrelative:r8e05v4_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43BA5F9-028B-47D1-9886-3A5B7C633517}|R8E05V3_AlbertoDM\\R8E05V3_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r8\\r8e05_albertodm\\r8e05v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43BA5F9-028B-47D1-9886-3A5B7C633517}|R8E05V3_AlbertoDM\\R8E05V3_AlbertoDM.csproj|solutionrelative:r8e05v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CA5E23-62D6-4D14-ADC5-8A373AD73308}|R8E05V2_AlbertoDM\\R8E05V2_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r8\\r8e05_albertodm\\r8e05v2_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CA5E23-62D6-4D14-ADC5-8A373AD73308}|R8E05V2_AlbertoDM\\R8E05V2_AlbertoDM.csproj|solutionrelative:r8e05v2_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127D2074-89A3-AA36-A9FD-584EFE3EFE77}|R8E05V1_AlbertoDM\\R8E05V1_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r8\\r8e05_albertodm\\r8e05v1_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127D2074-89A3-AA36-A9FD-584EFE3EFE77}|R8E05V1_AlbertoDM\\R8E05V1_AlbertoDM.csproj|solutionrelative:r8e05v1_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V5_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R8E05V5_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V5_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R8E05V5_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwE4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:11:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V4_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R8E05V4_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V4_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R8E05V4_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:04:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V3_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R8E05V3_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V3_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R8E05V3_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:40:53.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V2_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R8E05V2_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V2_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R8E05V2_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:31:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V1_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R8E05V1_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R8\\R8E05_AlbertoDM\\R8E05V1_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R8E05V1_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:28:24.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
