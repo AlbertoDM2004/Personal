@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{870AEA22-4979-181D-2CBA-E4D1D5E61A0F}|R10E01V1_AlbertoDM\\R10E01V1_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r10\\r10_albertodm\\r10e01v1_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870AEA22-4979-181D-2CBA-E4D1D5E61A0F}|R10E01V1_AlbertoDM\\R10E01V1_AlbertoDM.csproj|solutionrelative:r10e01v1_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D54C0B3C-228A-4ED0-A022-C26FA76B0D3A}|R10E01V3_AlbertoDM\\R10E01V3_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r10\\r10_albertodm\\r10e01v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54C0B3C-228A-4ED0-A022-C26FA76B0D3A}|R10E01V3_AlbertoDM\\R10E01V3_AlbertoDM.csproj|solutionrelative:r10e01v3_albertodm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54C0B3C-228A-4ED0-A022-C26FA76B0D3A}|R10E01V3_AlbertoDM\\R10E01V3_AlbertoDM.csproj|c:\\users\\usuario\\desktop\\proyectos programacion\\r10\\r10_albertodm\\r10e01v3_albertodm\\entradadedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54C0B3C-228A-4ED0-A022-C26FA76B0D3A}|R10E01V3_AlbertoDM\\R10E01V3_AlbertoDM.csproj|solutionrelative:r10e01v3_albertodm\\entradadedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntradaDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V3_AlbertoDM\\EntradaDeDatos.cs",
+              "RelativeDocumentMoniker": "R10E01V3_AlbertoDM\\EntradaDeDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V3_AlbertoDM\\EntradaDeDatos.cs",
+              "RelativeToolTip": "R10E01V3_AlbertoDM\\EntradaDeDatos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:28:31.138Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V1_AlbertoDM\\Program.cs",
-              "RelativeDocumentMoniker": "R10E01V1_AlbertoDM\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V1_AlbertoDM\\Program.cs",
-              "RelativeToolTip": "R10E01V1_AlbertoDM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V3_AlbertoDM\\Program.cs",
+              "RelativeDocumentMoniker": "R10E01V3_AlbertoDM\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyectos Programacion\\R10\\R10_AlbertoDM\\R10E01V3_AlbertoDM\\Program.cs",
+              "RelativeToolTip": "R10E01V3_AlbertoDM\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T13:27:16.589Z",
+              "WhenOpened": "2026-11-16T07:27:17.224Z",
               "EditorCaption": ""
             }
           ]

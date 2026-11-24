@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="R10E01V1_AlbertoDM/R10E01V1_AlbertoDM.csproj" />
+  <Project Path="R10E01V2_AlbertoDM/R10E01V2_AlbertoDM.csproj" Id="d1754024-dea0-4bbc-9a22-0cc36cabf758" />
+  <Project Path="R10E01V3_AlbertoDM/R10E01V3_AlbertoDM.csproj" Id="d54c0b3c-228a-4ed0-a022-c26fa76b0d3a" />
 </Solution>
